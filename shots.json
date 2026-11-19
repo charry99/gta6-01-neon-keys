@@ -1,5 +1,1 @@
-[
-  { "name": "1-start.jpg", "query": "?shot=start&seed=1" },
-  { "name": "2-play.jpg", "query": "?shot=play&seed=1" },
-  { "name": "3-end.jpg", "query": "?shot=end&seed=1" }
-]
+{"format":"jpeg","game":"Neon Keys","quality":80,"scenes":[{"about":"Night drive across the lit Brisa Causeway toward Cayo Brisa, traffic around, HUD and minimap visible.","file":"1-cover.jpg","scene":"cover","url":"?scene=cover","waitMs":3500},{"about":"Police chase at four wanted stars on the Fortuna Causeway: patrol cars behind, helicopter spotlight on the player, police boats on the water below.","file":"2-chase.jpg","scene":"chase","url":"?scene=chase","waitMs":2500},{"about":"Smuggling run in progress by boat: cargo aboard, exposure meter part-filled, objective marker ahead, a patrol boat in sight.","file":"3-mission.jpg","scene":"mission","url":"?scene=mission","waitMs":3000},{"about":"Speedboat run between the islands in dawn rain, wake behind, Fortuna Marina lights ahead, HUD visible.","file":"4-boat.jpg","scene":"boat","url":"?scene=boat","waitMs":4000}],"size":[1280,800]}
